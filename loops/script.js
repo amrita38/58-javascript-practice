@@ -160,7 +160,6 @@
 //   }
 // }
 
-
 //  Q.8 Ask the user for a number and print whetther each number from 1 to that number is even or odd.
 
 // let val = prompt("give a number");
@@ -172,4 +171,10 @@
 //   }
 // }
 
-// Q. 9 count how many no between 1 to 100 are divisible by both 3 and 5 
+// Q. 9 count how many no between 1 to 100 are divisible by both 3 and 5
+//  for (let i = 1; i <= val; i++) {
+//     if(i%3===0 && i%5===0){
+//         console.log(i);
+//     }
+//  }
+
