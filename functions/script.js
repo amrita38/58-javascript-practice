@@ -10,6 +10,7 @@
 // }
 // add();
 
+
 // rest operator
 // function abcd(...val) {
 //   console.log(val);
